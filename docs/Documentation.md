@@ -188,5 +188,13 @@ pip install -r requirements.txt
 - [x] Business insights and recommendations
 
 ---
+## 9. Screenshots
+
+<img width="1913" height="736" alt="image" src="https://github.com/user-attachments/assets/35d9ad61-83a8-4ee5-9264-df6021de72b6" />
+
+<img width="1919" height="735" alt="image" src="https://github.com/user-attachments/assets/53f53726-7960-41c1-9494-08d4a83bf9f8" />
+
+<img width="1919" height="713" alt="image" src="https://github.com/user-attachments/assets/6dd4bc71-911a-48ae-ad8d-ec4cefe9afba" />
+
 
 *Documentation version 1.0 — March 2026*
